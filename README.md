@@ -7,7 +7,7 @@
 - [Data Science Tool](#data-science)
 - [Others](#others)
 
-## 1. Data Analytics
+## Data Analytics
 
 ## 2. Business Documentation
 
