@@ -1,9 +1,8 @@
 ## Data Science
 
-#### Business Analytics Specialization
+#### Course-Data Science Math Skills `April 2021`
 
-Coursera Link [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics)
+![Certificate](Specialization-Business%20Analytics/Specialization-Business%20Analytics.jpeg)
 
-> Course List
->
-> > [Business Analytics Specialization]
+> Description: 1 Course Total ~ 13 hrs  
+> Coursera Link [Course-Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills)
