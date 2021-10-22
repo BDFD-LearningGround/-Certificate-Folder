@@ -2,7 +2,7 @@
 
 #### Specialization-Precalculus through Data and Modelling `Dec 2021`
 
-![Certificate](Specialization-Everyday%20Excel/Specialization-Everyday%20Excel.jpeg)
+![Certificate](Specialization-Precalculus%20through%20Data%20and%20Modelling/Specialization-Precalculus%20through%20Data%20and%20Modelling.jpeg)
 
 > Description:Total 3 Course with ~ 32 hrs  
 > Coursera Link [Specialization-Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling)  
