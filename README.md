@@ -13,6 +13,7 @@
 >
 > > Specialization-Precalculus through Data and Modelling `Dec 2020`: Total 3 Course with ~ 32 hrs
 > > Specialization-Everyday Excel `March 2021`: Total 3 Course with ~ 64 hrs
+> > Specialization-Data Analysis and Visualization Foundations `Oct 2021`: Total 3 Course with ~ 32 hrs
 
 ## Business Documentation
 

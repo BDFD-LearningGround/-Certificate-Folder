@@ -23,3 +23,15 @@
 > > Course 1 - Everyday Excel, Part 1  
 > > Course 2 - Everyday Excel, Part 2  
 > > Course 3 - Everyday Excel, Part 3(Project)
+
+#### Specialization-Data Analysis and Visualization Foundations `Oct 2021`
+
+![Certificate](Specialization-Everyday%20Excel/Specialization-Everyday%20Excel.jpeg)
+
+> Description:Total 3 Course with ~ 32 hrs  
+> Coursera Link [Specialization-Everyday Excel](https://www.coursera.org/specializations/data-analysis-visualization-foundations)  
+> Course List
+>
+> > Course 1 - Introduction to Data Analytics  
+> > Course 2 - Excel Basics for Data Analytics  
+> > Course 3 - Data Visualization and Dashboard with Excel and Congnos
