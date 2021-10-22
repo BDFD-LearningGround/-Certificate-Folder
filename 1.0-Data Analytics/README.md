@@ -1,5 +1,17 @@
 ## Data Analytics
 
+#### Specialization-Precalculus through Data and Modelling `Dec 2021`
+
+![Certificate](Specialization-Everyday%20Excel/Specialization-Everyday%20Excel.jpeg)
+
+> Description:Total 3 Course with ~ 32 hrs  
+> Coursera Link [Specialization-Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling)  
+> Course List
+>
+> > Course 1 - Precalculus: Relations and Functions  
+> > Course 2 - Precalculus: Periodic Functions  
+> > Course 3 - Precalculus: Mathematical Modelling
+
 #### Specialization-Everyday Excel `March 2021`
 
 ![Certificate](Specialization-Everyday%20Excel/Specialization-Everyday%20Excel.jpeg)
