@@ -1,6 +1,6 @@
-## Business Documentation
+## Visualization
 
-#### Specialization-Data Visualization with Tableau Specialization`2021-04`
+#### Specialization-Data Visualization with Tableau Specialization`April 2021`
 
 ![Certificate](Business%20Analytics%20Specialization/Specialization-Business%20Analytics.jpeg)
 
