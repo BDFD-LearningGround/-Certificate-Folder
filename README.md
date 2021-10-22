@@ -10,6 +10,8 @@
 ## Data Analytics
 
 > Go to ->[1.0 Data Analytics Course List][1] Folder
+>
+> > Specialization-Everyday Excel `March 2021`: Total 3 Course with ~ 64 hrs
 
 ## Business Documentation
 
