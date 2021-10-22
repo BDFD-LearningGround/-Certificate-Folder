@@ -15,7 +15,7 @@
 
 > Go to ->[2.0 Business Documentation][2] Folder
 >
-> > Business Analytics Specialization `2021-03`: Total 6 Course with ~ 72 hrs
+> > Specialization-Business Analytics `March 2021`: Total 5 Course with ~ 72 hrs
 
 ## Math & Statistics
 
@@ -24,6 +24,8 @@
 ## Visualization
 
 > Go to ->[4.0 Visualization][4] Folder
+>
+> > Specialization-Data Visualization with Tableau Specialization `May 2021`: Total 5 Course with ~ 72 hrs
 
 ## Data Science
 
