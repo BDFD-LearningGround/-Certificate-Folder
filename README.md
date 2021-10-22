@@ -9,9 +9,9 @@
 
 ## Data Analytics
 
-> [Data Analytics Course List](1.0-Data%20Analytics)
+> Go to ->[Data Analytics Course List](1) Folder
 >
-> > [Business Analytics Specialization] [Business Analytics Specialization](1)
+> > [Business Analytics Specialization] [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics)
 
 ## Business Documentation
 
@@ -23,4 +23,4 @@
 
 ## Others
 
-[1]:
+[1]: 1.0-Data%20Analytics
