@@ -9,12 +9,12 @@
 
 ## Data Analytics
 
-## 2. Business Documentation
+## Business Documentation
 
-## 3. Math Statistics
+## Math Statistics
 
-## 4. Visualization
+## Visualization
 
-## 5. Data Science
+## Data Science
 
-## 6. Others
+## Others
