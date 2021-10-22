@@ -15,7 +15,7 @@
 
 > Go to ->[2.0 Business Documentation][2] Folder
 >
-> > [Business Analytics Specialization] [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics)
+> > Business Analytics Specialization: Total 6 Course with ~ 72 hrs
 
 ## Math & Statistics
 
