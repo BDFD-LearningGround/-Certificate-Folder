@@ -4,10 +4,9 @@
 
 Coursera Link [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics)
 
-Description:
-6 Course with Total ~ 72 hrs
-![Certificate](/Business%20Analytics%20Specialization/Course1-Customer%20Analytics.pdf)
+![Certificate](Business%20Analytics%20Specialization/Course1-Customer%20Analytics.jpeg)
 
+> Description:Total 6 Course with ~ 72 hrs
 > Course List
 >
 > > Course 1 - Customer Analytics
