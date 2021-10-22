@@ -2,7 +2,7 @@
 
 #### Specialization-Everyday Excel `March 2021`
 
-![Certificate](Specialization-Business%20Analytics/Specialization-Business%20Analytics.jpeg)
+![Certificate](Specialization-Everyday%20Excel/Specialization-Everyday%20Excel.jpeg)
 
 > Description:Total 3 Course with ~ 64 hrs  
 > Coursera Link [Specialization-Everyday Excel](https://www.coursera.org/specializations/everyday-excel)  
