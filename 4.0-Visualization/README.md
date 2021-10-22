@@ -2,7 +2,7 @@
 
 #### Specialization-Data Visualization with Tableau Specialization `April 2021`
 
-![Certificate](Business%20Analytics%20Specialization/Specialization-Business%20Analytics.jpeg)
+![Certificate](Specialization-Fundamentals%20of%20Visualization%20with%20Tableau/Specialization-Fundamentals%20of%20Visualization%20with%20Tableau.jpeg)
 
 > Description:Total 5 Course with ~ 72 hrs  
 > Coursera Link [Specialization-Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization)  
