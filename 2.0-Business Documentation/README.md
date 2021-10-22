@@ -2,7 +2,7 @@
 
 #### Specialization-Business Analytics `May 2021`
 
-![Certificate](2.0-Business%20Documentation/Specialization-Business%20Analytics/Specialization-Business%20Analytics.jpeg)
+![Certificate](Specialization-Business%20Analytics/Specialization-Business%20Analytics.jpeg)
 
 > Description:Total 5 Course with ~ 72 hrs  
 > Coursera Link [Specialization-Business Analytics](https://www.coursera.org/specializations/business-analytics)  
