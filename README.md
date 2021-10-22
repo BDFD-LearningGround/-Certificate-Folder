@@ -40,6 +40,8 @@
 ## Others
 
 > Go to ->[6.0 Others][6] Folder
+>
+> > Course-Data Science with Math Skills `May 2021`: Total 1 Course with ~ 13 hrs
 
 [1]: 1.0-Data%20Analytics
 [2]: 2.0-Business%20Documentation

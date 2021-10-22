@@ -1,9 +1,8 @@
 ## Others
 
-#### Business Analytics Specialization
+#### Course-Version Control with Git `May 2021`
 
-Coursera Link [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics)
+![Certificate](Course-Data%20Science%20Math%20Skills/Course-Data%20Science%20Math%20Skills.jpeg)
 
-> Course List
->
-> > [Business Analytics Specialization]
+> Description: 1 Course Total ~ 13 hrs  
+> Coursera Link [Course-Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
