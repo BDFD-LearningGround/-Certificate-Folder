@@ -9,7 +9,7 @@
 
 ## Data Analytics
 
-> [Data Analytics Course List](1.0-Data Analytics)
+> [Data Analytics Course List](1.0-Data%20Analytics)
 >
 > > [Business Analytics Specialization] [Business Analytics Specialization](1)
 
