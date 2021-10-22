@@ -1,6 +1,6 @@
 ## Business Documentation
 
-#### Specialization-Business Analytics`2021-05`
+#### Specialization-Business Analytics `May 2021`
 
 ![Certificate](Business%20Analytics%20Specialization/Specialization-Business%20Analytics.jpeg)
 
