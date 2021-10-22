@@ -1,20 +1,20 @@
 # 5.0_Certificate-Folder
 
-- [Data Analytics Tool](#data-analytics-tool)
+- [Data Analytics](#data-analytics)
 - [Business Documentation](#business-documentation)
 - [Math/Statistics](#Math-Statistics)
-- [Visualization Tool](#visualization-tool)
-- [Data Science Tool](#data-science-tool)
+- [Visualization Tool](#visualization)
+- [Data Science Tool](#data-science)
 - [Others](#others)
 
-## Data Analytics Tool
+## 1. Data Analytics
 
-## Business Documentation
+## 2. Business Documentation
 
-## Math Statistics
+## 3. Math Statistics
 
-## Visualization Tool
+## 4. Visualization
 
-## Data Science Tool
+## 5. Data Science
 
-## Others
+## 6. Others
