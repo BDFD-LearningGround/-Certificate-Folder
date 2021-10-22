@@ -15,7 +15,7 @@
 
 > Go to ->[2.0 Business Documentation][2] Folder
 >
-> > Business Analytics Specialization '2021-03': Total 6 Course with ~ 72 hrs
+> > Business Analytics Specialization `2021-03`: Total 6 Course with ~ 72 hrs
 
 ## Math & Statistics
 
