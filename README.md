@@ -9,29 +9,29 @@
 
 ## Data Analytics
 
-> Go to ->[Data Analytics Course List][1] Folder
+> Go to ->[1.0 Data Analytics Course List][1] Folder
 
 ## Business Documentation
 
-> Go to ->[Business Documentation][2] Folder
+> Go to ->[2.0 Business Documentation][2] Folder
 >
 > > [Business Analytics Specialization] [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics)
 
 ## Math & Statistics
 
-> Go to ->[Math & Statistics][3] Folder
+> Go to ->[3.0 Math & Statistics][3] Folder
 
 ## Visualization
 
-> Go to ->[Visualization][4] Folder
+> Go to ->[4.0 Visualization][4] Folder
 
 ## Data Science
 
-> Go to ->[Data Science][5] Folder
+> Go to ->[5.0 Data Science][5] Folder
 
 ## Others
 
-> Go to ->[Others][6] Folder
+> Go to ->[6.0 Others][6] Folder
 
 [1]: 1.0-Data%20Analytics
 [2]: 2.0-Business%20Documentation
