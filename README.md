@@ -9,7 +9,7 @@
 
 ## Data Analytics
 
-> Go to ->[Data Analytics Course List](1) Folder
+> Go to ->[Data Analytics Course List][1] Folder
 >
 > > [Business Analytics Specialization] [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics)
 
