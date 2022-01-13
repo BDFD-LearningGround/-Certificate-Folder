@@ -1,4 +1,4 @@
-# 5.0_Certificate-Folder
+# Certificate-Folder
 
 - [Data Analytics](#data-analytics)
 - [Business Documentation](#business-documentation)
