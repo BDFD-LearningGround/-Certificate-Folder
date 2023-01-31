@@ -10,7 +10,7 @@
 > Course List
 >
 > > Course 1 - Precalculus: Relations and Functions  
-> > Course 2 - Precalculus: Periodic Functions
+> > Course 2 - Precalculus: Periodic Functions  
 > > Course 3 - Precalculus: Mathematical Modeling
 
 #### Specialization-Everyday Excel `March 2021`
