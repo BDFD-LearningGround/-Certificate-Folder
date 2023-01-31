@@ -15,7 +15,11 @@
 
 #### Certificate-Google Data Analytics Professional Certificate `Apr 2022`
 
+<<<<<<< HEAD
 ![Certificate](Ceritificate-Google%20Data%20Analytics%20Professional%20Certificate/Certificate-Google%20Data%20Analytics%20Professional%20Certificate.jpg)
+=======
+![Certificate](Certificate-Google%20Data%20Analytics%20Professional%20Certificate/Certificate-Google%20Data%20Analytics%20Professional%20Certificate.jpeg)
+>>>>>>> 664eb50792363079d5e7caea234f9386a684d895
 
 > Offer By:Google
 > Length:Total 8 Course with ~ 240 hrs  
