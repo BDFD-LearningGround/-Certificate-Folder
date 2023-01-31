@@ -12,6 +12,7 @@
 > Go to ->[1.0 Data Analytics Course List][1] Folder
 >
 > > Specialization-Data Analysis and Visualization Foundations `Oct 2021`: Total 3 Course with ~ 32 hrs
+> > Certificate-Google Data Analytics Professional Certificate `Apr 2022`: Total 3 Course with ~ 32 hrs
 
 ## Business Documentation
 
