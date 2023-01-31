@@ -56,4 +56,5 @@
 > > Course 2 - Mastering Data Analysis in Excel(On Processing)  
 > > Course 3 - Data Visualization and Communication with Tableau(On Processing)  
 > > Course 4 - Managing Big Data with MySQL(On Processing)  
-> > Course 5 - Increasing Real Estate Management Profits: Harnessing Data Analytics(On Processing)
+> > Course 5 - Increasing Real Estate Management Profits: Harnessing Data Analytics(On Processing)  
+> > Course 6 - Capstone: Applying Project Management in the Real World(On Processing)
