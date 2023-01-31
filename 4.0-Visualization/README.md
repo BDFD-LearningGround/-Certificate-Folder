@@ -2,7 +2,7 @@
 
 #### Specialization-Data Visualization with Tableau Specialization `April 2021`
 
-![Certificate](Specialization-Data%20of%20Visualization%20with%20Tableau/Specialization-Data%20of%20Visualization%20with%20Tableau.jpeg)
+![Certificate](Specialization-Data%20Visualization%20with%20Tableau/Specialization-Data%20of%20Visualization%20with%20Tableau.jpeg)
 
 > Offer By:University of California, Davis
 > Length:Total 5 Course with ~ 72 hrs  
