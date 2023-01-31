@@ -47,6 +47,7 @@
 > Go to ->[6.0 Others][6] Folder
 >
 > > Course-Version Control with Git `May 2021`: Total 1 Course with ~ 13 hrs
+> > Specialization-From Data to Insights with Google Cloud Specialization `Unfinished`: Total 4 Course with ~ 40 hrs
 
 [1]: 1.0-Data%20Analytics
 [2]: 2.0-Business%20Documentation
