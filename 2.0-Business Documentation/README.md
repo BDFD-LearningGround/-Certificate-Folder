@@ -24,8 +24,8 @@
 > Coursera Link [Specialization-Data-Driven Decision Making(DDDM) Specialization](https://www.coursera.org/specializations/data-driven-decision-making)  
 > Course List
 >
-> > Course 1 - Data-Driven Process Improvement
-> > Course 2 - Data Analysis and Visualization
+> > Course 1 - Data-Driven Process Improvement  
+> > Course 2 - Data Analysis and Visualization  
 > > Course 3 - Applied Analytics and Data for Decision Making(On Processing)
 
 #### Certificate-Google Project Management Professional Certificate `Unfinished`
@@ -37,8 +37,8 @@
 > Coursera Link [Certificate-Google Project Management Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)  
 > Course List
 >
-> > Course 1 - Foundations of Project Management
-> > Course 2 - Project Initiation: Starting A Successful Project
-> > Course 3 - Project Planning: Put It All Together
-> > Course 4 - Project Execution: Running the Project
+> > Course 1 - Foundations of Project Management  
+> > Course 2 - Project Initiation: Starting A Successful Project  
+> > Course 3 - Project Planning: Put It All Together  
+> > Course 4 - Project Execution: Running the Project  
 > > Course 5 - Agile Project Management(On Processing)
