@@ -11,7 +11,6 @@
 
 > Go to ->[1.0 Data Analytics Course List][1] Folder
 >
-> > Specialization-Everyday Excel `March 2021`: Total 3 Course with ~ 64 hrs  
 > > Specialization-Data Analysis and Visualization Foundations `Oct 2021`: Total 3 Course with ~ 32 hrs
 
 ## Business Documentation
@@ -25,6 +24,7 @@
 > Go to ->[3.0 Math & Statistics][3] Folder
 >
 > > Specialization-Precalculus through Data and Modelling `Dec 2020`: Total 3 Course with ~ 32 hrs
+> > Specialization-Everyday Excel `March 2021`: Total 3 Course with ~ 64 hrs
 
 ## Visualization
 
