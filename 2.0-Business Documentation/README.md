@@ -42,3 +42,18 @@
 > > Course 3 - Project Planning: Put It All Together  
 > > Course 4 - Project Execution: Running the Project  
 > > Course 5 - Agile Project Management(On Processing)
+
+#### Specialization-Excel to MySQL: Analytic Techniques for Business Specialization `Unfinished`
+
+<!-- ![Certificate](Specialization-Business%20Analytics/Specialization-Business%20Analytics.jpeg) -->
+
+> Offer By: Duke University  
+> Length: Total 5 Course with ~ 112 hrs  
+> Coursera Link [Specialization-Excel to MySQL:Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql)  
+> Course List
+>
+> > Course 1 - Business Metrics for Data-Driven Companies  
+> > Course 2 - Mastering Data Analysis in Excel(On Processing)  
+> > Course 3 - Data Visualization and Communication with Tableau(On Processing)  
+> > Course 4 - Managing Big Data with MySQL(On Processing)  
+> > Course 5 - Increasing Real Estate Management Profits: Harnessing Data Analytics(On Processing)

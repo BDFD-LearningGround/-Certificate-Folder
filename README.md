@@ -22,6 +22,7 @@
 > > Specialization-Business Analytics `May 2021`: Total 5 Course with ~ 72 hrs  
 > > Specialization-Data-Driven Decision Making(DDDM) Specialization `Unfinished`: Total 3 Course with ~ 36 hrs  
 > > Certificate-Google Project Management Professional Certificate `Unfinished`: Total 6 Course with ~ 240 hrs
+> > Specialization-Excel to MySQL Analytic Techniques for Business Specialization `Unfinished`: Total 5 Course with ~ 112 hrs
 
 ## Math & Statistics
 
