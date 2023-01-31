@@ -42,6 +42,7 @@
 > Go to ->[5.0 Data Science][5] Folder
 >
 > > Course-Data Science with Math Skills `April 2021`: Total 1 Course with ~ 13 hrs
+> > Specialization-IBM Data Science with Professional Specialization `Unfinished`: Total 10 Course with ~ 90 hrs
 
 ## Others
 
