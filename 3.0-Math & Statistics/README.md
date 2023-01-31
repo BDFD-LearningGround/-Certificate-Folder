@@ -17,7 +17,7 @@
 
 ![Certificate](Specialization-Everyday%20Excel/Specialization-Everyday%20Excel.jpeg)
 
-> Offer By:University of Colorado Boulder
+> Offer By:University of Colorado Boulder  
 > Length:Total 3 Course with ~ 64 hrs  
 > Coursera Link [Specialization-Everyday Excel](https://www.coursera.org/specializations/everyday-excel)  
 > Course List

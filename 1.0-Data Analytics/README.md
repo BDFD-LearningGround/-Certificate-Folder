@@ -4,7 +4,7 @@
 
 ![Certificate](Specialization-Data%20Analysis%20and%20Visualization%20Foundations/Specialization-IBM%20Data%20Analysis%20and%20Visualization%20Foundations.jpeg)
 
-> Offer By:IBM Skills Network
+> Offer By:IBM Skills Network  
 > Length:Total 3 Course with ~ 32 hrs  
 > Coursera Link [Specialization-IBM Data Analysis and Visualization Foundations](https://www.coursera.org/specializations/data-analysis-visualization-foundations)  
 > Course List
@@ -17,7 +17,7 @@
 
 ![Certificate](Certificate-Google%20Data%20Analytics%20Professional%20Certificate/Certificate-Google%20Data%20Analytics%20Professional%20Certificate.jpg)
 
-> Offer By:Google
+> Offer By:Google  
 > Length:Total 8 Course with ~ 240 hrs  
 > Coursera Link [Certificate-Google Data Analytics Professional Certificate](https://www.coursera.org/specializations/google-data-analytics)  
 > Course List

@@ -4,7 +4,7 @@
 
 ![Certificate](Specialization-Business%20Analytics/Specialization-Business%20Analytics.jpeg)
 
-> Offer By: Wharton - University of Pennsylvania
+> Offer By: Wharton - University of Pennsylvania  
 > Length: 5 Course with ~ 72 hrs  
 > Coursera Link [Specialization-Business Analytics](https://www.coursera.org/specializations/business-analytics)  
 > Course List

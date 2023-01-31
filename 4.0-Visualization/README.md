@@ -4,7 +4,7 @@
 
 ![Certificate](Specialization-Data%20Visualization%20with%20Tableau/Specialization-Data%20of%20Visualization%20with%20Tableau.jpeg)
 
-> Offer By:University of California, Davis
+> Offer By:University of California, Davis  
 > Length:Total 5 Course with ~ 72 hrs  
 > Coursera Link [Specialization-Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization)  
 > Course List
