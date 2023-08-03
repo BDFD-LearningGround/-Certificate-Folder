@@ -11,9 +11,9 @@
 
 > Go to ->[1.0 Data Analytics Course List][1] Folder
 >
-> > Specialization-Data Analysis and Visualization Foundations `Oct 2021`: Total 3 Course with ~ 32 hrs
-> > Certificate-Google Data Analytics Professional Certificate `Apr 2022`: Total 8 Course with ~ 240 hrs
-> > Certificate-IBM Data Analyst Professional Certificate `Unfinished`: Total 9 Course with ~ 160 hrs
+> > Specialization-Data Analysis and Visualization Foundations `Oct 2021`: Total 3 Course with ~ 32 hrs  
+> > Certificate-Google Data Analytics Professional Certificate `Apr 2022`: Total 8 Course with ~ 240 hrs  
+> > Certificate-IBM Data Analyst Professional Certificate `Unfinished`: Total 9 Course with ~ 160 hrs  
 
 ## Business Documentation
 
@@ -21,35 +21,35 @@
 >
 > > Specialization-Business Analytics `May 2021`: Total 5 Course with ~ 72 hrs  
 > > Specialization-Data-Driven Decision Making(DDDM) Specialization `Unfinished`: Total 3 Course with ~ 36 hrs  
-> > Certificate-Google Project Management Professional Certificate `Unfinished`: Total 6 Course with ~ 240 hrs
-> > Specialization-Excel to MySQL Analytic Techniques for Business Specialization `Unfinished`: Total 5 Course with ~ 112 hrs
+> > Certificate-Google Project Management Professional Certificate `Unfinished`: Total 6 Course with ~ 240 hrs  
+> > Specialization-Excel to MySQL Analytic Techniques for Business Specialization `Unfinished`: Total 5 Course with ~ 112 hrs  
 
 ## Math & Statistics
 
 > Go to ->[3.0 Math & Statistics][3] Folder
 >
-> > Specialization-Precalculus through Data and Modelling `Dec 2020`: Total 3 Course with ~ 32 hrs
-> > Specialization-Everyday Excel `March 2021`: Total 3 Course with ~ 64 hrs
+> > Specialization-Precalculus through Data and Modelling `Dec 2020`: Total 3 Course with ~ 32 hrs  
+> > Specialization-Everyday Excel `March 2021`: Total 3 Course with ~ 64 hrs  
 
 ## Visualization
 
 > Go to ->[4.0 Visualization][4] Folder
 >
-> > Specialization-Data Visualization with Tableau Specialization `April 2021`: Total 5 Course with ~ 72 hrs
+> > Specialization-Data Visualization with Tableau Specialization `April 2021`: Total 5 Course with ~ 72 hrs  
 
 ## Data Science
 
 > Go to ->[5.0 Data Science][5] Folder
 >
-> > Course-Data Science with Math Skills `April 2021`: Total 1 Course with ~ 13 hrs
-> > Specialization-IBM Data Science with Professional Specialization `Unfinished`: Total 10 Course with ~ 90 hrs
+> > Course-Data Science with Math Skills `April 2021`: Total 1 Course with ~ 13 hrs  
+> > Specialization-IBM Data Science with Professional Specialization `Unfinished`: Total 10 Course with ~ 90 hrs  
 
 ## Others
 
 > Go to ->[6.0 Others][6] Folder
 >
-> > Course-Version Control with Git `May 2021`: Total 1 Course with ~ 13 hrs
-> > Specialization-From Data to Insights with Google Cloud Specialization `Unfinished`: Total 4 Course with ~ 40 hrs
+> > Course-Version Control with Git `May 2021`: Total 1 Course with ~ 13 hrs  
+> > Specialization-From Data to Insights with Google Cloud Specialization `Unfinished`: Total 4 Course with ~ 40 hrs  
 
 [1]: 1.0-Data%20Analytics
 [2]: 2.0-Business%20Documentation
