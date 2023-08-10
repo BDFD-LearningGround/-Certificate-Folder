@@ -28,9 +28,9 @@
 > > Course 2 - Data Analysis and Visualization  
 > > Course 3 - Applied Analytics and Data for Decision Making(On Processing)
 
-#### Certificate-Google Project Management Professional Certificate `Unfinished`
+#### Certificate-Google Project Management Professional Certificate `Aug 2023`
 
-<!-- ![Certificate](Specialization-Business%20Analytics/Specialization-Business%20Analytics.jpeg) -->
+![Certificate](Certificate-Google%20Project%20Management%20Professional%20Ceritificate/Certificate%20-%20Google%20Project%20Management.jpeg)
 
 > Offer By: Google  
 > Length: Total 6 Course with ~ 240 hrs  
@@ -41,7 +41,8 @@
 > > Course 2 - Project Initiation: Starting A Successful Project  
 > > Course 3 - Project Planning: Put It All Together  
 > > Course 4 - Project Execution: Running the Project  
-> > Course 5 - Agile Project Management(On Processing)
+> > Course 5 - Agile Project Management(On Processing)  
+> > Course 6 - Capstone: Applying Project Management in the Real World(On Processing)
 
 #### Specialization-Excel to MySQL: Analytic Techniques for Business Specialization `Unfinished`
 
@@ -56,5 +57,4 @@
 > > Course 2 - Mastering Data Analysis in Excel(On Processing)  
 > > Course 3 - Data Visualization and Communication with Tableau(On Processing)  
 > > Course 4 - Managing Big Data with MySQL(On Processing)  
-> > Course 5 - Increasing Real Estate Management Profits: Harnessing Data Analytics(On Processing)  
-> > Course 6 - Capstone: Applying Project Management in the Real World(On Processing)
+> > Course 5 - Increasing Real Estate Management Profits: Harnessing Data Analytics(On Processing)
