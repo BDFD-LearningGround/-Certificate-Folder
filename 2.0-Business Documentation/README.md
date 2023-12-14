@@ -41,8 +41,8 @@
 > > Course 2 - Project Initiation: Starting A Successful Project  
 > > Course 3 - Project Planning: Put It All Together  
 > > Course 4 - Project Execution: Running the Project  
-> > Course 5 - Agile Project Management(On Processing)  
-> > Course 6 - Capstone: Applying Project Management in the Real World(On Processing)
+> > Course 5 - Agile Project Management  
+> > Course 6 - Capstone: Applying Project Management in the Real World
 
 #### Specialization-Excel to MySQL: Analytic Techniques for Business Specialization `Unfinished`
 
