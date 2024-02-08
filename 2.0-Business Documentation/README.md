@@ -15,19 +15,6 @@
 > > Course 4 - Accounting Analytics  
 > > Course 5 - Business Analytics Capstone
 
-#### Specialization-Data-Driven Decision Making(DDDM) Specialization `Unfinished`
-
-<!-- ![Certificate](Specialization-Business%20Analytics/Specialization-Business%20Analytics.jpeg) -->
-
-> Offer By: University at Buffalo/The State University of New York  
-> Length: Total 3 Course with ~ 36 hrs  
-> Coursera Link [Specialization-Data-Driven Decision Making(DDDM) Specialization](https://www.coursera.org/specializations/data-driven-decision-making)  
-> Course List
->
-> > Course 1 - Data-Driven Process Improvement  
-> > Course 2 - Data Analysis and Visualization  
-> > Course 3 - Applied Analytics and Data for Decision Making(On Processing)
-
 #### Certificate-Google Project Management Professional Certificate `Aug 2023`
 
 ![Certificate](Certificate-Google%20Project%20Management%20Professional%20Ceritificate/Certificate%20-%20Google%20Project%20Management.jpeg)
@@ -43,6 +30,19 @@
 > > Course 4 - Project Execution: Running the Project  
 > > Course 5 - Agile Project Management  
 > > Course 6 - Capstone: Applying Project Management in the Real World
+
+#### Specialization-Data-Driven Decision Making(DDDM) Specialization `Feb 2024`
+
+![Certificate](<Specialization-Data-Drive%20Decision%20Making(DDDM)%20Specialization/Specialization-Data-Drive%20Decision%20Making(DDDM).jpg>)
+
+> Offer By: University at Buffalo/The State University of New York  
+> Length: Total 3 Course with ~ 36 hrs  
+> Coursera Link [Specialization-Data-Driven Decision Making(DDDM) Specialization](https://www.coursera.org/specializations/data-driven-decision-making)  
+> Course List
+>
+> > Course 1 - Data-Driven Process Improvement  
+> > Course 2 - Data Analysis and Visualization  
+> > Course 3 - Applied Analytics and Data for Decision Making(On Processing)
 
 #### Specialization-Excel to MySQL: Analytic Techniques for Business Specialization `Unfinished`
 
