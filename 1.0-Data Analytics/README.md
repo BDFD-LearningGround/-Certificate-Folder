@@ -1,7 +1,8 @@
 ## Data Analytics
 
 #### Specialization-Data Analysis and Visualization Foundations `Oct 2021`
-![Certificate](Specialization-Data%20Analysis%20and%20Visualization%20Foundations/Specialization-IBM%20Data%20Analysis%20and%20Visualization%20Foundations.jpeg | width=100)
+
+![Certificate](Specialization-Data%20Analysis%20and%20Visualization%20Foundations/Specialization-IBM%20Data%20Analysis%20and%20Visualization%20Foundations.jpeg)
 
 > Offer By:IBM Skills Network  
 > Length:Total 3 Course with ~ 32 hrs  
