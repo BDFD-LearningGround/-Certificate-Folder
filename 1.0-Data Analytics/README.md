@@ -2,7 +2,7 @@
 
 #### Specialization-Data Analysis and Visualization Foundations `Oct 2021`
 
-<img align="center" width="465" height="245"   scr="https://github.com/BDFD-LearningGround/Certificate-Folder/blob/main/1.0-Data%20Analytics/Specialization-Data%20Analysis%20and%20Visualization%20Foundations/Specialization-Data%20Analysis%20and%20Visualization%20Foundations.jpg">
+<img align="center" width="465" height="245"   scr="https://raw.githubusercontent.com/BDFD-LearningGround/Certificate-Folder/main/1.0-Data%20Analytics/Specialization-Data%20Analysis%20and%20Visualization%20Foundations/Specialization-Data%20Analysis%20and%20Visualization%20Foundations.jpg">
 
 > Offer By:IBM Skills Network  
 > Length:Total 3 Course with ~ 32 hrs  
@@ -15,7 +15,7 @@
 
 #### Certificate-Google Data Analytics Professional Certificate `Apr 2022`
 
-<img align="center" width="465" height="245"   scr="https://github.com/BDFD-LearningGround/Certificate-Folder/blob/main/1.0-Data%20Analytics/Certificate-Google%20Data%20Analytics%20Professional%20Certificate/Certificate-Google%20Data%20Analytics%20Professional%20Certificate.jpg">
+<img align="center" width="465" height="245"   scr="https://raw.githubusercontent.com/BDFD-LearningGround/Certificate-Folder/main/1.0-Data%20Analytics/Certificate-Google%20Data%20Analytics%20Professional%20Certificate/Certificate-Google%20Data%20Analytics%20Professional%20Certificate.jpg">
 
 > Offer By:Google  
 > Length:Total 8 Course with ~ 240 hrs  
