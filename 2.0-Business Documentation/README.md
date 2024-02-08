@@ -33,7 +33,7 @@
 
 #### Specialization-Data-Driven Decision Making(DDDM) Specialization `Feb 2024`
 
-![Certificate](<Specialization-Data-Drive%20Decision%20Making(DDDM)%20Specialization/Specialization-Data-Drive%20Decision%20Making(DDDM).jpg>)
+![Certificate](<Specialization-Data-Drive%20Decision%20Making(DDDM)%20Specialization/Specialization-Data-Drive%20Decision%20Making(DDDM).jpeg>)
 
 > Offer By: University at Buffalo/The State University of New York  
 > Length: Total 3 Course with ~ 36 hrs  
